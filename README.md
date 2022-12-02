@@ -1,4 +1,4 @@
-# Identidficador de instrumentos con ML
+# Identificador de instrumentos con ML
 Alejandra Calderon Alfonso  & Emmanuel Botero Osorio \
 Física Experimental III \
 Universidad de Antioquia \
